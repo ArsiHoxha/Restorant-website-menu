@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Restorant-website-menu/static/css/main.22dd877f.css",
+    "main.css": "/Restorant-website-menu/static/css/main.00294a7d.css",
     "main.js": "/Restorant-website-menu/static/js/main.32ae4576.js",
     "static/js/787.7e84d2d7.chunk.js": "/Restorant-website-menu/static/js/787.7e84d2d7.chunk.js",
     "index.html": "/Restorant-website-menu/index.html",
-    "main.22dd877f.css.map": "/Restorant-website-menu/static/css/main.22dd877f.css.map",
+    "main.00294a7d.css.map": "/Restorant-website-menu/static/css/main.00294a7d.css.map",
     "main.32ae4576.js.map": "/Restorant-website-menu/static/js/main.32ae4576.js.map",
     "787.7e84d2d7.chunk.js.map": "/Restorant-website-menu/static/js/787.7e84d2d7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.22dd877f.css",
+    "static/css/main.00294a7d.css",
     "static/js/main.32ae4576.js"
   ]
 }
